@@ -2,7 +2,7 @@
 
 # See Openclassrooms - [Front End Developer path](https://openclassrooms.com/fr/paths/314-developpeur-front-end#path-tabs)
 
-**I am currently on project 12 of the apprenticeship program**
+****
 
 ## How to contact me :
 
