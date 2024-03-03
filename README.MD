@@ -1,6 +1,6 @@
 ![Logo de Fisheye](/github-banner.png)
 
-# See Openclassrooms - [Front End Developer path](https://openclassrooms.com/fr/paths/314-developpeur-front-end#path-tabs)
+
 
 ****
 
